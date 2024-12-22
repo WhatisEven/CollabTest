@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=WorldGrid
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ WorldGrid\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=WorldGrid()
+comment2.params=
+comment2.target=void\ setGenerated()
+comment2.text=\r\n\ A\ setter\ method\ that\ sets\ the\ current\ block\ status\r\n
+comment3.params=
+comment3.target=boolean\ getGeneratedStatus()
+comment3.text=\r\n\ Returns\ whether\ the\ current\ area\ of\ the\ map\ has\ already\ been\ generated\ /\ considered\ by\ object\ generator\r\n
+numComments=4
