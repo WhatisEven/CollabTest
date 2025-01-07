@@ -1,6 +1,0 @@
-#BlueJ class context
-comment0.target=Checker
-comment1.params=theArray\ report
-comment1.target=boolean\ checkResults(int[],\ boolean)
-comment1.text=\r\n\ Sort\ result\ checker.\r\n\ \r\n\ This\ modular\ method\ will\ check\ any\ given\ array\ of\ integers\ and\ \r\n\ return\ true\ if\ the\ values\ are\ correctly\ sorted\ or\ false\ if\ there\r\n\ are\ any\ errors.\ Setting\ the\ parameter\ boolean\ reporting\ to\ true\r\n\ will\ also\ output\ the\ results\ to\ the\ screen.\r\n\ \r\n\ @param\ theArray\ \ The\ array\ of\ integers\ that\ you\ want\ to\ check\r\n\ @param\ report\ \ \ \ True\ if\ you\ want\ results\ displayed\ to\ the\ screen\r\n\ @return\ boolean\ \ True\ if\ the\ values\ are\ in\ numerical\ order\r\n\ \r\n\ @author\ Jordan\ Cohen\r\n\ @version\ April\ 2014\r\n
-numComments=2
