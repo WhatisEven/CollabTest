@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=DropLoot
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Loot\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=lootAmount\ lootName\ fromActor
+comment1.target=DropLoot(int,\ java.lang.String,\ greenfoot.Actor)
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ moveToPosition()
+comment3.text=\r\n\ A\ method\ that\ deals\ with\ a\ fix\ moving\ action\ of\ the\ object\r\n
+comment4.params=
+comment4.target=void\ setSpaces()
+comment4.text=\r\n\ A\ method\ that\ sets\ a\ fix\ amounts\ of\ space\ to\ which\ the\ item\ should\ move\ to\ when\ dropped\r\n
+numComments=5
