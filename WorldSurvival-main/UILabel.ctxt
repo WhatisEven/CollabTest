@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=UILabel
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ UILabel\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=value\ fontSize
+comment1.target=UILabel(int,\ int)
+comment1.text=\r\n\ A\ label\ that\ is\ mainly\ used\ to\ display\ texts\ on\ the\ game's\ UI\ objects\r\n
+comment2.params=value\ fontSize
+comment2.target=UILabel(java.lang.String,\ int)
+numComments=3

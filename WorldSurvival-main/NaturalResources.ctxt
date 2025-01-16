@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=NaturalResources
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ NaturalResources\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=NaturalResources()
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ clickAction()
+comment3.text=\r\n\ A\ abstract\ method\ that\ deals\ with\ the\ action\ after\ the\ user\ clicks\ on\ the\ current\ object\ under\ the\ same\ category\r\n
+comment4.params=
+comment4.target=void\ dropLoot()
+comment4.text=\r\n\ A\ abstract\ method\ that\ allows\ for\ the\ object\ to\ drop\ loots\ for\ player\ to\ get\ upon\r\n
+numComments=5

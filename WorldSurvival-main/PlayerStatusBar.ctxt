@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=PlayerStatusBar
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ PlayerStatusBar\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=PlayerStatusBar()
+comment2.params=world
+comment2.target=void\ addedToWorld(greenfoot.World)
+comment3.params=
+comment3.target=void\ act()
+comment4.params=
+comment4.target=void\ displayText()
+comment4.text=\r\n\ A\ abstract\ method\ that\ allows\ for\ continuously\ updates\ the\ status\ text\r\n
+comment5.params=
+comment5.target=void\ updateBar()
+comment5.text=\r\n\ A\ abstract\ method\ that\ allows\ for\ continuously\ updates\ the\ filling\ of\ the\ bar\ base\ on\ the\ remaning\ player\ status\r\n
+numComments=6
