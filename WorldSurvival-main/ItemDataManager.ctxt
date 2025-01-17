@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=ItemDataManager
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ ItemDataManager\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=itemAmount\ itemName
+comment1.target=java.lang.String\ getItemData(int,\ java.lang.String)
+comment1.text=\r\n\ A\ method\ that\ combines\ the\ name\ of\ the\ item\ and\ the\ amounts\ of\ the\ item\ together\ to\ form\ a\ combined\ data\ name\ (Only\ used\ for\ stackable\ item)\r\n
+comment2.params=itemAmount\ itemName
+comment2.target=java.lang.String[]\ getItemDatas(int,\ java.lang.String)
+comment2.text=\r\n\ A\ method\ that\ combines\ the\ name\ of\ the\ item\ and\ the\ amount\ (1)\ of\ the\ item\ together\ to\ form\ a\ combined\ data\ name\ (Only\ used\ for\ unstackable\ item)\r\n
+comment3.params=itemData
+comment3.target=java.lang.String\ getItemName(java.lang.String)
+comment3.text=\r\n\ A\ getter\ method\ that\ gets\ the\ name\ of\ the\ provided\ combine\ data\ \r\n
+comment4.params=itemData
+comment4.target=int\ getItemAmount(java.lang.String)
+comment4.text=\r\n\ A\ getter\ method\ that\ gets\ the\ amount\ of\ items\ from\ the\ provided\ combine\ data\r\n
+numComments=5
