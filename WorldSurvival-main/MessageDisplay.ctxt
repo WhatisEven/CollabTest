@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=MessageDisplay
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ MessageDisplay\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=value
+comment1.target=MessageDisplay(int)
+comment2.params=value
+comment2.target=MessageDisplay(java.lang.String)
+comment3.params=value\ txtColor
+comment3.target=MessageDisplay(int,\ greenfoot.Color)
+comment4.params=value\ txtColor
+comment4.target=MessageDisplay(java.lang.String,\ greenfoot.Color)
+comment5.params=world
+comment5.target=void\ addedToWorld(greenfoot.World)
+comment6.params=
+comment6.target=void\ act()
+numComments=7

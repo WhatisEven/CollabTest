@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=ImageManager
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ ImageManager\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=itemName\ sizeMultiplier
+comment1.target=greenfoot.GreenfootImage\ getImage(java.lang.String,\ double)
+comment1.text=\r\n\ A\ method\ that\ returns\ the\ image\ of\ the\ given\ item\ with\ a\ scaling\ system\r\n
+numComments=2
